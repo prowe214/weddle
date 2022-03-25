@@ -1136,6 +1136,7 @@ this.wordle = this.wordle || {},
         var Ma = ['Adore', 'Aisle', 'Altar', 'Bible', 'Bills', 'Bonus', 'Bride', 'Civil', 'Dowry', 'Dream', 'Dress', 'Fancy', 'Favor', 'Gifts', 'Heart', 'Howie', 'Honey', 'Honor', 'Humor', 'Lives', 'Marry', 'Party', 'Prize', 'Ready', 'Songs', 'Sweet', 'Token', 'Union', 'Unite', 'Usher', 'White', 'Youth']
         // OTHER WORDS
             , Oa = [
+'Adore', 'Aisle', 'Altar', 'Bible', 'Bills', 'Bonus', 'Bride', 'Civil', 'Dowry', 'Dream', 'Dress', 'Fancy', 'Favor', 'Gifts', 'Heart', 'Howie', 'Honey', 'Honor', 'Humor', 'Lives', 'Marry', 'Party', 'Prize', 'Ready', 'Songs', 'Sweet', 'Token', 'Union', 'Unite', 'Usher', 'White', 'Youth'
                 "howie",
                 "aahed",
         "aalii",
